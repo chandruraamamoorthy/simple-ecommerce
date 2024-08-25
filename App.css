@@ -1,0 +1,19 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+/*------------header-------------*/
+.header{
+    text-align: center;
+}
+
+/*-----------productCard----------*/
+.card-body{
+    text-align: center;
+}
+
+.productCardImg{
+    text-align: center;
+}
+
